@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Image_recognizer",
+			"path": "../Downloads/Image_recognizer-20201209T172621Z-001 (1)/Image_recognizer"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
